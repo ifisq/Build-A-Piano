@@ -5,7 +5,7 @@ Update: I got accepted!
 
 ### Screenshots
 
-https://i.imgur.com/W1tepYL.png
-https://i.imgur.com/JLJEbvv.png
-https://i.imgur.com/WP6DETU.png
-https://i.imgur.com/s5CnhOC.png
+![Page 1](https://i.imgur.com/W1tepYL.png)
+![Page 2](https://i.imgur.com/JLJEbvv.png)
+![Page 3](https://i.imgur.com/WP6DETU.png)
+![Page 4](https://i.imgur.com/s5CnhOC.png)
